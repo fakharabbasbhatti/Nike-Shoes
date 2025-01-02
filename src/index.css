@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* styling {Sign In} */
+
+@media (max-width:146) {
+.cart{
+        font-size: 2px;
+        background-color: red;
+        color: blue;
+        display: flex;
+    }}
